@@ -1,2 +1,2 @@
 # Telecom-Customer-Churn-Prediction
-Machine Learning &amp; Deep Learning project for predicting telecom customer churn.
+End-to-end Telecom Customer Churn Prediction project using Python, Machine Learning, and Deep Learning to generate actionable business insights and improve customer retention.
